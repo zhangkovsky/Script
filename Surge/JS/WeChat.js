@@ -13,3 +13,7 @@ var data = {
   }
 };
 $done({response: data});
+
+/**
+* @supported 21706F23 20717E56
+*/
