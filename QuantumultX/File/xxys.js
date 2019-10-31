@@ -37,3 +37,7 @@ if (url.indexOf(path2) != -1){
 }
 
 $done({body});
+
+/**
+* @supported 21706F23 20717E56
+*/
