@@ -5,5 +5,5 @@ body=JSON.stringify(body)
 $done({body})
 
 /**
-* @supported 21706F23
+* @supported 21706F23 20717E56
 */
