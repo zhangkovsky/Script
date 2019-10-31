@@ -9,3 +9,7 @@ var obj = JSON.parse($response.body);
 obj.advertisement_num = 0;
 obj.advertisement_info = [];
 $done({body: JSON.stringify(obj)}); 
+
+/**
+* @supported 21706F23 20717E56
+*/
