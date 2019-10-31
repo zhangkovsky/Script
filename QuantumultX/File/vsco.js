@@ -22,5 +22,9 @@ if (url.indexOf(path1) != -1) {
 
 $done({body});
 
+/**
+* @supported 21706F23 20717E56
+*/
+
 // 自用 转载需注明出处
 // TG频道: https://t.me/NobyDa
